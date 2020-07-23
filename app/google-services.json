@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703671913642",
+    "firebase_url": "https://rajpartystore-9a555.firebaseio.com",
+    "project_id": "rajpartystore-9a555",
+    "storage_bucket": "rajpartystore-9a555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703671913642:android:9c0f7be37b342fa4d554d3",
+        "android_client_info": {
+          "package_name": "com.example.android.rajpartystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703671913642-dup3jv715geh4mmh8j2f9h7o7ft8ept4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdhVcWVk4Loe8QBo4FpIEhmeqW7uHjBq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703671913642-dup3jv715geh4mmh8j2f9h7o7ft8ept4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
